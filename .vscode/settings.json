@@ -1,0 +1,25 @@
+{
+  "liveServer.settings.port": 5504,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4e1350",
+    "titleBar.activeBackground": "#260927",
+    "titleBar.activeForeground": "#e7e7e7",
+    "activityBar.activeBackground": "#4e1350",
+    "activityBar.activeBorder": "#676418",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#676418",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#260927",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#4e1350",
+    "titleBar.inactiveBackground": "#26092799",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "sash.hoverBorder": "#4e1350",
+    "statusBarItem.remoteBackground": "#260927",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799"
+},
+  "peacock.color": "#260927",
+  "cSpell.words": ["Matan"]
+}
